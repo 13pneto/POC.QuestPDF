@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "dPqoiq7zaDE6wUaSFfz4dI6KZohNbV3mJ3q5x8i2EH2jNFyfsNivaFM3n1kW1b+UdfaPaPYZEeNflkXnB2ALHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\skoot\\RiderProjects\\ConsoleApp3\\POC.QuestPDF\\POC.QuestPDF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skoot\\.nuget\\packages\\harfbuzzsharp\\7.3.0.1\\harfbuzzsharp.7.3.0.1.nupkg.sha512",
+    "C:\\Users\\skoot\\.nuget\\packages\\harfbuzzsharp.nativeassets.macos\\7.3.0.1\\harfbuzzsharp.nativeassets.macos.7.3.0.1.nupkg.sha512",
+    "C:\\Users\\skoot\\.nuget\\packages\\harfbuzzsharp.nativeassets.win32\\7.3.0.1\\harfbuzzsharp.nativeassets.win32.7.3.0.1.nupkg.sha512",
+    "C:\\Users\\skoot\\.nuget\\packages\\questpdf\\2023.12.6\\questpdf.2023.12.6.nupkg.sha512",
+    "C:\\Users\\skoot\\.nuget\\packages\\skiasharp\\2.88.7\\skiasharp.2.88.7.nupkg.sha512",
+    "C:\\Users\\skoot\\.nuget\\packages\\skiasharp.harfbuzz\\2.88.7\\skiasharp.harfbuzz.2.88.7.nupkg.sha512",
+    "C:\\Users\\skoot\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.7\\skiasharp.nativeassets.macos.2.88.7.nupkg.sha512",
+    "C:\\Users\\skoot\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.7\\skiasharp.nativeassets.win32.2.88.7.nupkg.sha512"
+  ],
+  "logs": []
+}
